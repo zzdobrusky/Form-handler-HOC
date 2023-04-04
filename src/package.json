@@ -1,0 +1,17 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/text-fields/ValidationTextFields.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/lab": "4.0.0-alpha.61",
+    "lodash": "4.17.21",
+    "react": "latest",
+    "react-currency-input-field": "3.6.10",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "name": "modular-error-handling-compound-with-context-and-exterrors-and-extvalues-and-onchange-and-render-props"
+}
